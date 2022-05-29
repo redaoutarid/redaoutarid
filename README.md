@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @redaoutarid
 - 👀 I’m interested in web development and design
-- 🌱 I’m currently learning laravel framework v8
+- 🌱 I’m currently learning Vue JS framework
 - 📫 Reach me on linkedin : https://www.linkedin.com/in/reda-outarid
 
 <!---
